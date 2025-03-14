@@ -24,3 +24,4 @@ echo "Connected to MySQL successfully!";
 \$conn->close();
 ?>
 EOL
+
